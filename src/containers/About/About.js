@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
 	return(
-		<div>I am Stateless About</div>
+		<div>App made by Tejas Nanaware. Visit GitHub Profile.</div>
 	);
 };
 

@@ -3,7 +3,7 @@ import React from 'react';
 class ListOfWords extends React.Component {
 	render() {
 		return(
-			<div>ListOfWords</div>
+			<div>Page under construction</div>
 		);
 	}
 }
