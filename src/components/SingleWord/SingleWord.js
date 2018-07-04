@@ -247,7 +247,7 @@ class SingleWord extends Component {
 		return (
 			<div className='container'>
 				<h1 style={{ 'textAlign': 'center', 'marginTop': '1%' }}>Hello!</h1>
-				<h3>Click on the button to improve your vocabulary</h3>
+				<h6>Click on the button to show a random word and its meaning</h6>
 				<div className='btn-group' style={{'paddingTop': '1%'}}>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromA() }>A</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromB() }>B</button>
