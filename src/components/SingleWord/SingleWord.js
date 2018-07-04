@@ -257,16 +257,18 @@ class SingleWord extends Component {
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromF() }>F</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromG() }>G</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromH() }>H</button>
+				</div>
+				<div className='btn-group' style={{'paddingTop': '1%'}}>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromI() }>I</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromJ() }>J</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromK() }>K</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromL() }>L</button>
-				</div>
-				<div className='btn-group' style={{'paddingTop': '1%'}}>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromM() }>M</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromN() }>N</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromO() }>O</button>
-					<button className='btn btn-primary' onClick={ () => this.generateWordFromP() }>P</button>
+					<button className='btn btn-primary' onClick={ () => this.generateWordFromP() }>P</button>					
+				</div>
+				<div className='btn-group' style={{'paddingTop': '1%'}}>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromQ() }>Q</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromR() }>R</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromS() }>S</button>
@@ -274,9 +276,9 @@ class SingleWord extends Component {
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromU() }>U</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromV() }>V</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromW() }>W</button>
+					<button className='btn btn-primary' onClick={ () => this.generateWordFromX() }>X</button>
 				</div>
 				<div className='btn-group' style={{'paddingTop': '1%'}}>
-					<button className='btn btn-primary' onClick={ () => this.generateWordFromX() }>X</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromY() }>Y</button>
 					<button className='btn btn-primary' onClick={ () => this.generateWordFromZ() }>Z</button>
 				</div>
