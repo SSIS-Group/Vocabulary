@@ -1,4 +1,5 @@
 import React from 'react';
+import './ListOfWords.css';
 import { A } from '../../assets/wordlist.json';
 import { B } from '../../assets/wordlist.json';
 import { C } from '../../assets/wordlist.json';
@@ -38,6 +39,11 @@ class ListOfWords extends React.Component {
 		this.setState({
 			words: ['Word: Meaning', 'Word: Meaning']
 		});
+	}
+
+	goToTop = () => {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
 	}
 
 	generateListFromA = () => {
@@ -335,6 +341,7 @@ class ListOfWords extends React.Component {
 						}
 					</tbody>
 				</table>
+				<button className='btn btn-primary btn-circle' onClick={() => this.goToTop()}>^</button>
 			</div>
 		);
 	}

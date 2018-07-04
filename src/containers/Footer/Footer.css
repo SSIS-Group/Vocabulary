@@ -5,3 +5,7 @@ footer {
 	color: rgba(255,255,255,.5);
 	width: 100%;
 }
+
+.fixed-bottom  {
+	z-index: auto;
+}
