@@ -321,6 +321,7 @@ class ListOfWords extends React.Component {
 					<button className='btn btn-primary' onClick={() => this.generateListFromZ()}>Z</button>
 					<button className='btn btn-primary' onClick={() => this.resetList()}>Reset</button>
 				</div>
+				<h6 style={{'paddingTop': '1%', 'fontFamily':'Raleway'}}><strong>{this.state.words.length === 2? 0: this.state.words.length}</strong> { this.state.words.length === 1 ? 'Word':'Words'}</h6>
 				<table className="table table-striped table-responsive" style={{ 'marginTop': '5%', 'marginBottom': '10%' }}>
 					<thead>
 						<tr>
