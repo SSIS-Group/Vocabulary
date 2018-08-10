@@ -10,6 +10,6 @@ Providing about **5000 different words that are sorted alphabetically**, you can
 1. **Single Word:** This method provides you a random word from the selected letter everytime.  
 2. **List of Words:** This will provide you with a list of words from the chosen letter.  
   
-The app is hosted online using GitHub and you can start using it [here](https://tejas-nanaware.github.io/Vocabulary/#/).  
+The app is hosted online using GitHub and you can start using it [here](https://ssis-group.github.io/Vocabulary/#/).  
   
 ```Feel free to contribute to this app by adding new words or adding new learning strategies.```
