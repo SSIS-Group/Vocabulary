@@ -1,8 +1,8 @@
 {
 	"name": "vocabulary-app",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"private": false,
-	"homepage": "https://tejas-nanaware.github.io/Vocabulary/",
+	"homepage": "https://ssis-group.github.io/Vocabulary/",
 	"dependencies": {
 		"react": "^16.4.1",
 		"react-dom": "^16.4.1",
