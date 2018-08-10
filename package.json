@@ -2,6 +2,11 @@
 	"name": "vocabulary-app",
 	"version": "2.0.2",
 	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SSIS-Group/Vocabulary.git"
+	},
+	"license": "SEE LICENSE IN <LICENCE>",
 	"homepage": "https://ssis-group.github.io/Vocabulary/",
 	"dependencies": {
 		"react": "^16.4.1",
