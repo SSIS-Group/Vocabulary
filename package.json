@@ -1,13 +1,13 @@
 {
 	"name": "vocabulary-app",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"private": false,
 	"repository": {
 		"type": "git",
-		"url": "https://ssis-group.github.io/Vocabulary/"
+		"url": "https://github.com/SSIS-Group/Vocabulary"
 	},
 	"license": "SEE LICENSE IN <LICENCE>",
-	"homepage": "https://ssis-group.github.io/Vocabulary/",
+	"homepage": "http://vocab.ssisindia.com",
 	"dependencies": {
 		"react": "^16.4.1",
 		"react-dom": "^16.4.1",
