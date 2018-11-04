@@ -1,9 +1,11 @@
 # dependencies
 /node_modules
 
+#deployment
+/build
+
 # testing
 /coverage
-
 
 # misc
 .DS_Store
