@@ -1,6 +1,6 @@
 {
 	"name": "vocabulary-app",
-	"version": "2.0.3",
+	"version": "2.0.5",
 	"private": false,
 	"repository": {
 		"type": "git",
@@ -23,6 +23,7 @@
 		"eject": "react-scripts eject"
 	},
 	"devDependencies": {
-		"gh-pages": "^1.2.0"
+		"gh-pages": "^1.2.0",
+		"merge": "^1.2.1"
 	}
 }
