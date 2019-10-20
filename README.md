@@ -5,7 +5,7 @@ Do you want to improve your vocabulary if you are preparing for an English exam?
 Search No More!  
   
 Vocabulary Builder App will enable you to learn English at no cost at all. This app is built using [React](http://reactjs.org).  
-Providing about **5000 different words that are sorted alphabetically**, you can learn now by using two different modes:  
+Providing about **7000 different words that are sorted alphabetically**, you can learn now by using two different modes:  
   
 1. **Single Word:** This method provides you a random word from the selected letter everytime.  
 2. **List of Words:** This will provide you with a list of words from the chosen letter.  
